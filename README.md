@@ -10,6 +10,8 @@ The results will appear as `result_alpine_bayesian_10.csv` and `times_alpine_bay
 
 The other examples in default configuration are plug and play.
 
+A short tutorial on the module is available as `tutorial_blackboxoptimizer_module.ipynb`.
+
 ## Results on alpine
 
 ### 10-dimensional
