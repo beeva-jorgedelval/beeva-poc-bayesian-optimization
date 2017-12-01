@@ -1,7 +1,7 @@
 ![](https://www.beeva.com/wp-content/uploads/2016/07/logo-dark.png)
 # PoC Bayesian Optimization for Hyperparameter Selection in Machine Learning
 
-This PoC explores the use of Bayesian Optimization in the context of hyperparameter selection. For the BayesianOptimizer [GPyOpt](https://github.com/SheffieldML/GPyOpt) is used.
+This PoC explores the use of Bayesian Optimization in the context of hyperparameter selection. For the BayesianOptimizer [GPyOpt](https://github.com/SheffieldML/GPyOpt) is used. The outputs are the `BlackBoxOptimizer` modules and various benchmarks on machine learning and optimization tasks.
 
 To run the default alpine example just type
 
